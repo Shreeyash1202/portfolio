@@ -657,12 +657,12 @@ footer{
         width:fit-content;
     }
     .about-image{
-        padding: 30px;
+        padding: 3%;
         margin: auto;
     }
     .about-text{
         font-size: 18px;
-        padding: 10px;
+        padding: 1%;
     }
     .abimg{
         justify-content: center;
