@@ -2,6 +2,7 @@
 ::-webkit-scrollbar{
     width: 10px;
 }
+
 /* SCROLLBAR */
 
 ::-webkit-scrollbar-track{
@@ -130,7 +131,7 @@ section{
 }
 .linearg{
     margin: 15px 0px;
-    font-size: 3rem;
+    font-size: 2rem;
      background: linear-gradient(60deg,rgb(0, 247, 255), #0044a9,#4475ba);
     background-size: 300%;
     -webkit-text-fill-color: transparent;
@@ -657,7 +658,7 @@ footer{
         width:fit-content;
     }
     .about-image{
-        padding: 3%;
+        padding: 1%;
         margin: auto;
     }
     .about-text{
@@ -1146,7 +1147,7 @@ footer{
     .left::after, .right::after {
     left: 15px;
     }
-    
+     
     /* Make all right containers behave like the left ones */
     .right {
     left: 0%;
@@ -1158,7 +1159,7 @@ footer{
     position: relative;
     width: 100%;
     height: 250px;
-    background: rgb(67, 168, 196);
+    background: rgb(0, 0, 0);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1204,7 +1205,7 @@ footer{
   }
   
   .card:hover:after {
-    content: "Made this 2D game using Python";
+    content: "Made apple vision pro website clone using HTML CSS & JS";
   }
   
 
@@ -1262,7 +1263,7 @@ footer{
   }
   
   .card1:hover:after {
-    content: "Learned Web Devlopmet through this project  ";
+    content: "Made this game using Python ";
   }
   
 
@@ -1323,7 +1324,7 @@ footer{
   
   .card2:hover:after {
     
-    content: "Car Insurance Company";
+    content: "QR code generator";
   }
   
 
@@ -1336,7 +1337,7 @@ footer{
 .card3 {
     position: relative;
     width: 100%;
-    height: 250px;
+    height: 200px;
     background: rgb(77, 218, 214);
     display: flex;
     align-items: center;
@@ -1387,11 +1388,3 @@ footer{
     content: "  project 4";
   }
   
- 
-
-
-
-
-
-  
- 
