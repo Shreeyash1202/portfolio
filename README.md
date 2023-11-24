@@ -2,8 +2,7 @@
 <br>
 <h3>-Overview</h3>
 <ul>
-  <li>Made to get more experience in development</li>
-  <li>Photos of mine are not added as I have no professional looking photos right now :)</li>
+  <li>Made to get more experience in development </li>
   <li>Information will be updated once in a while on the website</li>
   <li>Got to learn a lot through this project</li>
 </ul>
